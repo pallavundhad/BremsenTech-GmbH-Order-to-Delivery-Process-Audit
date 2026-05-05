@@ -7,7 +7,7 @@
 
 Most people learning SAP study modules in isolation, they know what SD does, they know what PP does, but they have never seen how a broken process looks *before* SAP, what it actually costs the business, and how each module addresses a specific, named failure.
 I wanted to build the thing that makes that connection real.
-So I created BremsenTech GmbH — a fictional Tier-2 automotive brake component manufacturer in Bavaria which gave it a real business crisis, and audited it the same way a management consultant would on day one of a paid engagement. Real industry benchmarks. Real SAP module logic. Real financial quantification. The only thing fictional is the company name.
+So I created BremsenTech GmbH, a fictional Tier-2 automotive brake component manufacturer in Bavaria which gave it a real business crisis, and audited it the same way a management consultant would on day one of a paid engagement. Real industry benchmarks. Real SAP module logic. Real financial quantification. The only thing fictional is the company name.
 
 The result is a full Order-to-Delivery process audit: AS-IS mapped in BPMN 2.0, seven gaps quantified in EUR, a TO-BE redesign with every SAP module named and justified, and an 18-month phased implementation roadmap.
 
