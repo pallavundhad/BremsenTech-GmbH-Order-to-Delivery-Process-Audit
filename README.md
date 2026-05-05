@@ -5,15 +5,15 @@
 
 ## Why I Built This
 
-Most people learning SAP study modules in isolation — they know what SD does, they know what PP does, but they have never seen how a broken process looks *before* SAP, what it actually costs the business, and how each module addresses a specific, named failure.
+Most people learning SAP study modules in isolation, they know what SD does, they know what PP does, but they have never seen how a broken process looks *before* SAP, what it actually costs the business, and how each module addresses a specific, named failure.
 I wanted to build the thing that makes that connection real.
-So I created BremsenTech GmbH — a fictional Tier-2 automotive brake component manufacturer in Bavaria — gave it a real business crisis, and audited it the same way a management consultant would on day one of a paid engagement. Real industry benchmarks. Real SAP module logic. Real financial quantification. The only thing fictional is the company name.
+So I created BremsenTech GmbH — a fictional Tier-2 automotive brake component manufacturer in Bavaria which gave it a real business crisis, and audited it the same way a management consultant would on day one of a paid engagement. Real industry benchmarks. Real SAP module logic. Real financial quantification. The only thing fictional is the company name.
 
 The result is a full Order-to-Delivery process audit: AS-IS mapped in BPMN 2.0, seven gaps quantified in EUR, a TO-BE redesign with every SAP module named and justified, and an 18-month phased implementation roadmap.
 
 ## The Business Problem
 
-BremsenTech sits at a crossroads that is common across German Tier-2 automotive suppliers. Continental AG and ZF Friedrichshafen — together 75% of their revenue are demanding EDI integration and real-time delivery visibility as a **non-negotiable condition of contract renewal.** On top of that, BMW and Mercedes-Daimler have signalled they will only consider direct Tier-1 suppliers who can integrate into their digital supply chain infrastructure. BremsenTech cannot do either of those things on SAP Business One 9.3.
+BremsenTech sits at a crossroads that is common across German Tier-2 automotive suppliers. Continental AG and ZF Friedrichshafen, together 75% of their revenue are demanding EDI integration and real-time delivery visibility as a **non-negotiable condition of contract renewal.** On top of that, BMW and Mercedes-Daimler have signalled they will only consider direct Tier-1 suppliers who can integrate into their digital supply chain infrastructure. BremsenTech cannot do either of those things on SAP Business One 9.3.
 
 The gap between where the company is and where its customers need it to be is not a technology gap. It is a process gap that technology will solve but only if you first understand exactly what is broken and what it is costing.
 
@@ -47,7 +47,7 @@ Three phases, 18 months, SAP Activate methodology. Phase 1 delivers the core ERP
 | Defect Detection Speed | 6-hour batch lag | Real-time inline | 6-hour blind spot |
 | Manual Process Handoffs | 17 | 4 (industry avg) | +13 unnecessary steps |
 
-**Annual cost of these gaps: EUR 683,200 — not counting a EUR 4M+ BMW opportunity currently out of reach.**
+**Annual cost of these gaps: EUR 683,200 which is not counting a EUR 4M+ BMW opportunity currently out of reach.**
 
 ## The SAP Fix
 
@@ -83,8 +83,8 @@ OEM opportunity:    EUR 4,000,000+ unlocked
 | File | What It Is |
 |---|---|
 | `BremsenTech_Process_Audit.pptx` | 10-slide consultant deck, the full story from benchmark to roadmap |
-| `AS-IS_Process_Map.png` | BPMN 2.0 current-state diagram, every pain point annotated in red |
-| `TO-BE_Process_Map.png` | BPMN 2.0 future-state diagram, SAP module labels on every automated step |
+| `AS-IS_Process_Map.png` | BPMN 2.0 current state diagram, every pain point annotated in red |
+| `TO-BE_Process_Map.png` | BPMN 2.0 future state diagram, SAP module labels on every automated step |
 | `gap_analysis.xlsx` | 7-gap structured table, root cause, EUR impact, priority, SAP fix |
 | `roi_model.xlsx` | ROI model with live Excel formulas and a full assumptions tab |
 | `benchmark_data_sources.md` | Every data source cited with named, linked, with context |
